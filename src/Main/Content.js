@@ -4,7 +4,7 @@ import Sidebar from './Sidebar'
 import './Content.css'
 const Content = () => {
     return (
-        <div className="content">
+        <div className="content_area">
             <Sidebar />
             <HomeContent />
         </div>

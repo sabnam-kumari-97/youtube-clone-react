@@ -1,2 +1,2 @@
-# youtube-redesign-clone
+# youtube-clone-react
  
